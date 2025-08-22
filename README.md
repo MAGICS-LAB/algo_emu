@@ -1,6 +1,6 @@
-# In‑Context Algorithm Emulation via Minimal Frozen Attention Layers
+# In‑Context Algorithm Emulation via Attention-Only Transformers
 
-This is the code for the paper: **In‑Context Algorithm Emulation via Minimal Frozen Attention Layers**. You can use this repo to reproduce the results in the paper.
+This is the code for the paper: ``**In‑Context Algorithm Emulation via Attention-Only Transformers**''. You can use this repo to reproduce the results in the paper.
 
 ## Environmental Setup
 
