@@ -1,6 +1,6 @@
 # In‑Context Algorithm Emulation in Fixed‑Weight Transformers
 
-This is the code for the paper: ''**In‑Context Algorithm Emulation in Fixed‑Weight Transformers**''. You can use this repo to reproduce the results in the paper.
+This is the code for the paper: [**In-Context Algorithm Emulation in Fixed-Weight Transformers**](https://arxiv.org/abs/2508.17550). You can use this repo to reproduce the results in the paper.
 
 ## Environmental Setup
 
