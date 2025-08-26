@@ -35,12 +35,10 @@ Run ```att_sim_statistical.py``` using synthetic data, and ```att_sim_statistica
 If you find our work useful, please cite:
 
 ```bibtex
-@misc{hu2025incontext,
-  title        = {In-Context Algorithm Emulation in Fixed-Weight Transformers},
-  author       = {Hu, Jerry Yao-Chieh and Liu, Hude and Zhang, Jennifer Yuntong and Liu, Han},
-  year         = {2025},
-  eprint       = {2508.17550},
-  archivePrefix= {arXiv},
-  primaryClass = {cs.LG}
+@article{hu2025incontext,
+  title   = {In-Context Algorithm Emulation in Fixed-Weight Transformers},
+  author  = {Hu, Jerry Yao-Chieh and Liu, Hude and Zhang, Jennifer Yuntong and Liu, Han},
+  journal = {arXiv preprint arXiv:2508.17550},
+  year    = {2025}
 }
 ```
