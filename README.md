@@ -6,7 +6,7 @@ This is the code for the paper: [**In-Context Algorithm Emulation in Fixed-Weigh
 
 1. Clone the repository
     ```bash
-    git clone <your-repo-url>
+    gh repo clone MAGICS-LAB/algo_emu
     cd algo_emu
     ```
 2. Create and activate a virtual environment
